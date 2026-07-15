@@ -119,7 +119,7 @@ export default function Skills() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="mt-10 flex flex-wrap justify-center gap-4"
         >
-          {["Problem Solving", "Technical Documentation", "Research", "Cross-functional Collaboration", "Agile / Scrum", "German (B2)", "English (Fluent)"].map((s) => (
+          {["Problem Solving", "Technical Documentation", "Research", "Cross-functional Collaboration", "Agile / Scrum", "German (A2)", "English (Fluent)"].map((s) => (
             <span
               key={s}
               className="px-4 py-2 rounded-full border border-white/10 text-white/50 text-sm hover:text-white hover:border-white/20 transition-colors"
