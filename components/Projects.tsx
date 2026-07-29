@@ -83,7 +83,7 @@ const projects: Project[] = [
     github: "https://github.com/Madangopal1508/Inverted-pendulum-robot",
     demo: "#",
     reportUrl: "#",
-    videoUrl: "https://drive.google.com/file/d/1-AQinSEC9vRTsz0ZwadgPK9AeiIJrfBz/preview",
+    videoUrl: "#",
     status: "Completed",
     duration: "Course Project",
     technologies: [
@@ -113,7 +113,7 @@ const projects: Project[] = [
     github: "#",
     demo: "#",
     reportUrl: "#",
-    videoUrl: "#",
+    videoUrl: "https://drive.google.com/file/d/1-AQinSEC9vRTsz0ZwadgPK9AeiIJrfBz/preview",
     status: "Completed",
     duration: "Research Project",
     technologies: [
